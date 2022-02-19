@@ -118,4 +118,5 @@ urlpatterns = [
 ![manu](https://user-images.githubusercontent.com/94883876/154814239-aba5674d-74c6-42b2-8a25-405a1cccb1d9.jpeg)
  
 ## Result:
+Therefor the above codes are successfully executed to run server side programming and  mathematical calcualtions.
 
